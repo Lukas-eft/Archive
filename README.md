@@ -1,6 +1,8 @@
 # Archive
 
 A minimal space to curate, save, and archive the pieces of the web that inspire you. This application serves as a universal wishlist for the entire internet, designed for the modern collector who values precision and aesthetics.
+---
+<img width="1911" height="990" alt="image" src="https://github.com/user-attachments/assets/03b3b3de-5130-4260-a360-e11d0d463ee7" />
 
 ---
 > [!IMPORTANT]
